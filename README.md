@@ -1,5 +1,6 @@
 ## QR code generator
-This is a simple web application that allows you to quickly generate QR codes for any text or URL. It is designed with a minimal, clean and user-friendly interface, allowing even the less techsavy users to you can easily create QR codes for various purposes.
+This webapp allows users to instantly generate QR codes for any text or URL. 
+It is designed with a minimal, clean and user-friendly interface and has a lighthouse score of 100/100
 
 ### Table of Contents
 1. Features
@@ -15,10 +16,12 @@ This is a simple web application that allows you to quickly generate QR codes fo
 4. Responsive design for various screen sizes.
 
 # Prerequisites
-You need a modern web browser to run this project.
+You need an IDE and a web browser to run this project.
 
 # Installation
-1. Clone the repository to your local machine using the following command: git clone https://github.com/aarnav1729/qrgenerator.git
+1. Clone the repository to your local machine using the following command: 
+git clone https://github.com/aarnav1729/qrgenerator.git
+
 2. Open the project folder locally in your IDE and you're good to go!
 
 # Usage
